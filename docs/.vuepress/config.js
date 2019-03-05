@@ -13,6 +13,8 @@ module.exports = {
         nav: [],
         sidebar: [
             '/',
+            'ferm/meetups',
+            'ferm/archive'
         ]
     }
 }
