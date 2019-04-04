@@ -15,6 +15,7 @@ module.exports = {
             '/',
             'ferm/meetups',
             'ferm/archive',
+            'ferm/about',
             'ferm/code-of-conduct'
         ]
     }
