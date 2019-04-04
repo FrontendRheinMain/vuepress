@@ -17,7 +17,8 @@ module.exports = {
             'ferm/archive',
             'ferm/videos',
             'ferm/about',
-            'ferm/code-of-conduct'
+            'ferm/code-of-conduct',
+            'ferm/contact'
         ]
     }
 };
