@@ -5,7 +5,7 @@ module.exports = {
     locales: {
         '/': {
             lang: 'de-DE',
-            title: 'Frontend RheinMain',
+            title: 'Frontend RheinMain'
         }
     },
     themeConfig: {
@@ -14,7 +14,8 @@ module.exports = {
         sidebar: [
             '/',
             'ferm/meetups',
-            'ferm/archive'
+            'ferm/archive',
+            'ferm/code-of-conduct'
         ]
     }
-}
+};
