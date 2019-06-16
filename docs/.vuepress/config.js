@@ -9,15 +9,15 @@ module.exports = {
         }
     },
     themeConfig: {
-        logo: '/logo.png',
+        logo: '/img/logo.png',
         nav: [],
         sidebar: [
             '/',
+            'ferm/about',
             'ferm/meetups',
             'ferm/archive',
             'ferm/videos',
             'ferm/sponsoring',
-            'ferm/about',
             'ferm/code-of-conduct',
             'ferm/contact'
         ]
