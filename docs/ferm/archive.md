@@ -5,7 +5,7 @@ title: Archive
 # Archive
 
 ## 2019
-* [Universal Serial Web](../posts/2019/2019-02-21-universal-serial-web-camao.md)
+* [The Universal Serial Web](https://www.youtube.com/watch?v=uoRuTjDoyB8) with Sebastian Golasch
 
 ## 2018
 * [Frontend Bingewatching beim 15. Meetup](../posts/2018/2018-02-20-frontend-rheinmain-meetup-15-at-aoe-wiesbaden.md)

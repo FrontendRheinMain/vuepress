@@ -19,14 +19,17 @@ Frontend RheinMain is a community-hub for frontend devs and friends in the Rhein
 - recording your talks on [video](https://www.youtube.com/channel/UCYFNj1jr1ZufRZLlPDVGYIw)
 - occasionally hand-out benefits for your participants like cheap or free conference tickets, coupon codes, books etc.
 
-[Contact us](contact.html) - we're happy to fuel your community-engagement!
-
+::: tip 
+[Contact us](/ferm/contact) - we're happy to fuel your community-engagement!
+:::
 
 ## Organize tech events
 
 Few times a year we also organize free frontend meetups by ourselves in Frankfurt, Wiesbaden, Mainz and Darmstadt - sponsored by helpful companies supplying room, wifi, beamer, drinks and food. This engages a cozy atmosphere to connect with other webworkers, to learn new stuff and get inspired by latest developments in our frontend field.
 
+::: tip 
 See our [archive since 2014](/ferm/archive)
+:::
 
 ## Give stage to speakers 
 
@@ -36,7 +39,9 @@ See our [archive since 2014](/ferm/archive)
 - Connect with like-minded people
 - Get your talk on video to spread your visibility and support your positioning
 
-[Contact us](contact.html) - our community is excited what you have to say! 
+::: tip 
+[Contact us](ferm/contact) - our community is excited what you have to say!
+::: 
 
 ## Recruiting-support for companies
 
@@ -47,16 +52,20 @@ Sponsoring our meetups is a budget-friendly and highly effective way for your co
 - you can hear which cutting-edge topics are currently being discussed in the community 
 - potential new staff members can see your location from the inside at a glance
 
-[Contact us](contact.html) to talk about different sponsoring options 
+::: tip 
+[See more information about sponsoring](/ferm/sponsoring) or [contact us](/ferm/contact) to talk about different sponsoring options 
+:::
 
 ## Expand reach for publishers
 
 You are a publisher and/or conference organizer? Either if you want to expand your reach to promote your conference or if you just released e.g. new books covering web development topics, there's a win-win-situation for both of us: When you send us a goodie for one of our meetups you get lots of positive attention from our community-members and enable us to add even more attraction to our meetups - because nerds always like cool goodies.
 
-[Contact us](contact.html) to talk about how to support us with nice benefits  
+::: tip 
+[Contact us](/ferm/contact) to talk about how to support us with nice benefits  
+:::
 
 # Who are we
 
 "Frontend RheinMain" is driven by a small team, consisting of [Jan Deppisch](https://twitter.com/netzartist) (inititator) and [Anett Gesierich](https://twitter.com/emsuiko).
 
-Wanna participate in our orga-team? [Great!](contact.html)
+Wanna participate in our orga-team? [Great!](/ferm/contact)

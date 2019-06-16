@@ -8,9 +8,13 @@ Our misson is to push knowledge transfer and connect webworkers in RheinMain. We
 
 - supporting [meetup initiatives](/ferm/meetups)
 - organizing [tech events](/ferm/archive)
-- We give stage to speakers
-- We offer recruiting-support for companies
-- We expand reach for publishers
+- giving stage to speakers
 
 [Read more](/ferm/about)
+
+### News
+
+#### 02 / 2019
+
+The video from Sebastian Golasch's talk about [The Universal Serial Web](https://www.youtube.com/watch?v=uoRuTjDoyB8) at [CAMAO](https://www.camao.de) is now online!
 
