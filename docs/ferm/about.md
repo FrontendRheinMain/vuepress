@@ -26,9 +26,9 @@ Frontend RheinMain is a community-hub for frontend devs and friends in the Rhein
 
 Few times a year we also organize free frontend meetups by ourselves in Frankfurt, Wiesbaden, Mainz and Darmstadt - sponsored by helpful companies supplying room, wifi, beamer, drinks and food. This engages a cozy atmosphere to connect with other webworkers, to learn new stuff and get inspired by latest developments in our frontend field.
 
-See our [archive since 2014]()
+See our [archive since 2014](/ferm/archive)
 
-## Give stage for speakers 
+## Give stage to speakers 
 
 - Wanna learn to speak in front of a crowd or improve your speaking skills? Our audience is totally relaxed and supports you with antipation and big applause :)
 - Pitch your project and/or promote your idea and gain feedback
@@ -40,7 +40,7 @@ See our [archive since 2014]()
 
 ## Recruiting-support for companies
 
-Sponsoring our meetups is an budget-friendly and highly effective way for your company to find new colleagues. As an event host:
+Sponsoring our meetups is a budget-friendly and highly effective way for your company to find new colleagues. As an event host:
 
 - you have the stage before the main talk(s) to present your company incl. your open positions and spread some merchandise
 - you offer room to connect with and directly approach like-minded people /  potential new colleagues
