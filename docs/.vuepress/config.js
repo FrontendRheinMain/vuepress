@@ -19,7 +19,8 @@ module.exports = {
             'ferm/videos',
             'ferm/sponsoring',
             'ferm/code-of-conduct',
-            'ferm/contact'
+            'ferm/contact',
+            'ferm/imprint'
         ]
     }
 };
