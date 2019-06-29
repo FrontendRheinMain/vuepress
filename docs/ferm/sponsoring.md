@@ -8,7 +8,7 @@ Following our passion to connect web workers in RheinMain is the key driver why 
 
 ## Our sponsors so far
 
-In alpabetical order:
+These companies are kindly offering their facilities for frontend related meetups in RheinMain (alpabetical order):
 
 | Name        | City           |
 | ------------- |:-------------:|
@@ -16,6 +16,7 @@ In alpabetical order:
 | [CAMAO AG](https://www.camao.one) | Darmstadt |
 | [Codemonauts](https://codemonauts.com/) | Frankfurt |
 | [Comwrap](https://www.comwrap.com/) | Frankfurt |
+| [Cosee](https://www.cosee.biz/) | Darmstadt |
 | [COWO 21](http://cowo21.de) | Darmstadt |
 | [DBSystel GmbH](https://www.dbsystel.de/) | Frankfurt |
 | [Die Zentrale Coworking](http://www.die-zentrale-ffm.de/) | Frankfurt |
