@@ -6,7 +6,7 @@ title: Sponsoring
 
 Following our passion to connect web workers in RheinMain is the key driver why we're doing all this in our free time. But also - to create and/or support high quality tech events for developers - some support in terms of locations and catering (one-time costs) is important. Thankfully in our region there are quite a few helpful companies:
 
-## Our sponsors so far
+## Many thanks to these companies
 
 These companies are kindly offering their facilities for frontend related meetups in RheinMain (alpabetical order):
 
@@ -27,11 +27,9 @@ These companies are kindly offering their facilities for frontend related meetup
 | [Sitewards GmbH](https://www.sitewards.com/) | Frankfurt |
 | [SYZYGY](http://www.syzygy.de) | Frankfurt |
 
-Many thanks!
+## Want to support us, too?
 
-## Want to support us?
-
-Supporting our community work is easy and just starts by [contacting us](contact.html) :-)
+Supporting our community work is easy and just starts by [contacting us](contact.html).
 
 ### Benefits for your company
 
