@@ -1,7 +1,7 @@
 module.exports = {
     title: 'Frontend Rhein-Main',
     description: 'community hub for frontenders in rhein main',
-    base: '/vuepress/',
+    base: '/',
     locales: {
         '/': {
             lang: 'de-DE',
