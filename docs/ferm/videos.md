@@ -8,11 +8,11 @@ You can find all these videos on our [Youtube-Channel](https://www.youtube.com/c
 
 ## 06 /2019 WebRTC: Serverless – This Time for Real! (Sebastian Golasch)
 
-<iframe width="740" height="414" src="https://www.youtube.com/watch?v=NAsSNMczRvQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="740" height="414" src="https://www.youtube.com/embed/NAsSNMczRvQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 06 /2019 Storybook - UI component system (Nicklas Knell)
 
-<iframe width="740" height="414" src="https://www.youtube.com/watch?v=IdDiMAAHnCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="740" height="414" src="https://www.youtube.com/embed/IdDiMAAHnCA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 02 / 2019: The Universal Serial Web (Sebastian Golasch)
 
