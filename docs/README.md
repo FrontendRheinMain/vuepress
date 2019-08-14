@@ -12,15 +12,6 @@ Our misson is to push knowledge transfer and connect webworkers in RheinMain. We
 
 [Read more](/ferm/about)
 
-### News
+<a class="twitter-timeline" href="https://twitter.com/frontend_rm?ref_src=twsrc%5Etfw">Tweets by frontend_rm</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-#### 06 / 2019
-
-The video coverage from the [DarmstadtJS](https://www.meetup.com/de-DE/DarmstadtJS/) meetup is now online:
-- [Nicklas Knell: "Storybook - UI component system"](https://www.youtube.com/watch?v=IdDiMAAHnCA)
-- [Sebastian Golasch: "WebRTC: Serverless – This Time for Real!"](https://www.youtube.com/watch?v=NAsSNMczRvQ)
-
-#### 02 / 2019
-
-The video from Sebastian Golasch's talk about [The Universal Serial Web](https://www.youtube.com/watch?v=uoRuTjDoyB8) at [CAMAO](https://www.camao.de) is now online!
 
