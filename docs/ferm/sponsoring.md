@@ -47,9 +47,9 @@ Sponsoring our meetups is a budget-friendly and highly effective way for your co
 
 ## Gold sponsor
 
-![An image](/img/aoe-logo.svg)
+![AOE GmbH](/img/aoe-logo.svg)
 
-[AOE](https://www.aoe.com/en/career.html) develops digital business and E-Commerce platform solutions based on Open Source technologies. We specialize in the implementation of complex enterprise software applications for global corporations. We support our customers in the development of digital business models and consistently rely on agile methods. In long-term agile projects, we execute innovative solutions with automated and digitalized processes together with our customers. In addition, AOE develops its own products such as the Open Source framework [Flamingo](https://www.flamingo.me/) and the Omnichannel Multi-Merchant Marketplace [OM³](https://www.aoe.com/en/solutions/om3-suite.html), the leading e-commerce marketplace for the aviation industry. Headquartered in Wiesbaden and with more than 300 employees in five countries, AOE serves global companies such as congstar, Deutsche Telekom, Heathrow, Singapore Airlines, Commerz Real, Sony, Panasonic and Frankfurt Airport.
+[AOE](https://www.aoe.com/en/career.html) develops digital business and E-Commerce platform and marketplace solutions based on Open Source technologies. The company specializes in the implementation of enterprise software applications for global corporations and supports its customers in the development of digital business models. In addition, AOE develops its own products such as the Open Source framework [Flamingo](https://www.flamingo.me/) and the Omnichannel Multi-Merchant Marketplace [OM³](https://www.aoe.com/en/solutions/om3-suite.html), the leading E-Commerce marketplace for the aviation industry and Travel Retail – currently live at Frankfurt-, London Heathrow- and Auckland International Airports as well as Singapore Airlines. Headquartered in Wiesbaden and with more than 250 employees in five countries, AOE serves global companies such as congstar, Deutsche Telekom, Commerz Real, Sony and Panasonic, in addition to its growing customer base in the aviation sector.
 
 ::: tip
 ### AOE is hiring 👈
