@@ -13,10 +13,10 @@ But also - to create and support high quality tech events for developers - some 
 
 Currently, as of beginning of 2020, we are desperately in need of a new main sponsor which would cover:
 
-- One-time costs (~2.500 EUR):
+- One-time costs (amount tbd):
   - A video-camera plus accessories (audio transmitter, cables etc.) so that
 we are able to record (or even stream) talks in a best quality and provide them on our [Youtube channel](https://www.youtube.com/channel/UCYFNj1jr1ZufRZLlPDVGYIw)
-  - Software licenses for Adobe Premiere & After Effects 
+  - Software licenses for Adobe Premiere & After Effects (preferred) 
 - Regular costs (~30 EUR monthly): This includes ongoing marketing stuff (stickers and t-shirts (planned) and domain- and
 other fees
 
