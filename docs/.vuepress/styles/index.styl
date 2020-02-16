@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css?family=Khand:500|Lato&display=swap');
+
+body
+  font-family 'Lato', sans-serif
+
+h1
+h2
+  font-family 'Khand', sans-serif
+  font-weight 500
+
+h1
+  color $colorBlue
+
+h2
+  color $colorRed
+
+h3
+  color $colorRedLight
+
+a:hover
+a:focus
+a:active
+  color $colorBlueLight
+
+.site-name
+  font-family 'Khand', sans-serif
+  font-weight 500 !important
+  text-transform uppercase
+
+.custom-block.tip
+  border-color $colorOrange
+
+// hide h1 headline on #home
+#home
+  display none !important
+
+#home + p
+  text-align center
+  img
+    margin-top 3rem
+    width 400px
+
+.img-left
+  float left
+  padding-right 10px
+  padding-bottom 10px
+  margin-top 20px

@@ -53,7 +53,7 @@ Sponsoring our meetups is a budget-friendly and highly effective way for your co
 - potential new staff members can see your location from the inside at a glance
 
 ::: tip 
-[See more information about sponsoring](/ferm/sponsoring) or [contact us](/ferm/contact) to talk about different sponsoring options 
+[See more information about sponsoring](/ferm/sponsoring) 
 :::
 
 ## Expand reach for publishers
@@ -64,8 +64,17 @@ You are a publisher and/or conference organizer? Either if you want to expand yo
 [Contact us](/ferm/contact) to talk about how to support us with nice benefits  
 :::
 
-# Who are we
+# Who is doing this?
 
-"Frontend RheinMain" is driven by a small team, consisting of [Jan Deppisch](https://twitter.com/netzartist) (inititator) and [Anett Gesierich](https://twitter.com/emsuiko).
+<img src='/img/jan.jpg' alt='Jan Deppisch' class='img-left'>
 
-Wanna participate in our orga-team? [Great!](/ferm/contact)
+Hi, I'm Jan. I've founded Frontend RheinMain in 2014 because I wanted to connect frontend developers like me and related web workers regularly in cozy evening-events to exchange new insights about frontend technologies, patterns and ideas and to connect with like-minded people.
+
+Since then many other meetups evolved in our region and instead of moderating my own events, me and my team now support these initiatives in a behind-the-scenes way: We record meetup sessions and put them on Youtube, we do social media marketing, we organize locations, we use our network to engage speakers and we offer benefits to all members.
+
+And we have many plans for the future.
+
+- Want to participate in our orga-team? [Great!](/ferm/contact)
+- Want to sponsor us? [Great!](/ferm/sponsoring)
+- Want to connect personally to me? [Great!](https://www.linkedin.com/in/netzartist/)
+
