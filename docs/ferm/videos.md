@@ -6,6 +6,14 @@ title: Videos
 
 You can find all these videos on our [Youtube-Channel](https://www.youtube.com/channel/UCYFNj1jr1ZufRZLlPDVGYIw). Please follow us there, too :-)
 
+## 10 / 2019 Content-Projection in Angular (Max Beckenbach)
+
+<iframe width="740" height="414" src="https://www.youtube.com/embed/G5Npho6_D0w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 09 / 2019 Mobile Vue.js - From PWA to Native (Martin Sotirov)
+
+<iframe width="740" height="414" src="https://www.youtube.com/embed/oSz7lYexuGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 06 /2019 WebRTC: Serverless – This Time for Real! (Sebastian Golasch)
 
 <iframe width="740" height="414" src="https://www.youtube.com/embed/NAsSNMczRvQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
