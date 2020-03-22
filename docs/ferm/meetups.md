@@ -16,6 +16,10 @@ title: Meetups & partner
 - Twitter: [@rheinmainjs](https://twitter.com/rheinmainjs)
 - Meetup: [RheinMainjS](https://www.meetup.com/RheinMainJS/)
 
+## Angular Frankfurt
+- Twitter: [ngFrankfurt](https://twitter.com/ngFrankfurt)
+- Meetup: [Angular Frankfurt](https://www.meetup.com/de-DE/Angular-Frankfurt/)
+
 
 
 ## What about your meetup?
