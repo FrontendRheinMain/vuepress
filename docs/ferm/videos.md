@@ -6,7 +6,7 @@ title: Videos
 
 You can find all these videos on our [Youtube-Channel](https://www.youtube.com/channel/UCYFNj1jr1ZufRZLlPDVGYIw). Please follow us there, too :-)
 
-## 03 / 2020 Working remotely, but not lonely Jessica Müller)
+## 03 / 2020 Working remotely, but not lonely (Jessica Müller)
 
 <iframe width="740" height="414" src="https://www.youtube.com/embed/aUXQWsVZw8k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
