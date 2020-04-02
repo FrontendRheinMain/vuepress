@@ -6,6 +6,10 @@ title: Videos
 
 You can find all these videos on our [Youtube-Channel](https://www.youtube.com/channel/UCYFNj1jr1ZufRZLlPDVGYIw). Please follow us there, too :-)
 
+## 03 / 2020 Working remotely, but not lonely Jessica Müller)
+
+<iframe width="740" height="414" src="https://www.youtube.com/embed/aUXQWsVZw8k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 10 / 2019 Content-Projection in Angular (Max Beckenbach)
 
 <iframe width="740" height="414" src="https://www.youtube.com/embed/G5Npho6_D0w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
