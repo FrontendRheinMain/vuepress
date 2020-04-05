@@ -4,6 +4,6 @@
         "docs:build": "vuepress build docs"
     },
     "dependencies": {
-        "vuepress": "^1.0.2"
+        "vuepress": "^1.4.0"
     }
 }
