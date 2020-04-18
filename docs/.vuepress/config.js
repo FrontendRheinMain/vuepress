@@ -14,6 +14,7 @@ module.exports = {
         sidebar: [
             '/',
             'ferm/about',
+            'ferm/newsletter',
             'ferm/meetups',
             'ferm/archive',
             'ferm/videos',
@@ -22,5 +23,20 @@ module.exports = {
             'ferm/contact',
             'ferm/imprint'
         ]
-    }
+    },
+    plugins: [
+        ['@vuepress/blog', {
+            directories: [
+                {
+                    id: 'post',
+                    dirname: '_posts',
+                    path: '/post/',
+                    itemPermalink: '/post/:year/:month/:day/:slug',
+                    pagination: {
+                        lengthPerPage: 4,
+                    },
+                },
+            ],
+        }]
+    ]
 };
