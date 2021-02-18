@@ -4,7 +4,7 @@ title: Newsletter
 
 # Subscribe to the Frontend RheinMain News
 
-Starting from May 2020 we'll publish the "Frontend RheinMain News" consisting of, for example:
+Starting from March 2021 we'll publish the "Frontend RheinMain News" consisting of, for example:
 
 - Coverage of past events
 - Announcements of new events
