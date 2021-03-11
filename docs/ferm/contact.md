@@ -9,3 +9,4 @@ title: Contact
 - Message us on [Twitter](https://twitter.com/frontend_rm)
 - Send us an [email](mailto:info@frontend-rheinmain.de)
 - Chat with us on [Slack](http://bit.ly/frontend_rm_chat)
+- Connect on [LinkedIn](http://bit.ly/frontend_rm_linkedin)
