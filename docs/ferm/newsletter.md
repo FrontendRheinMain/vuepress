@@ -4,16 +4,16 @@ title: Newsletter
 
 # Subscribe to the Frontend RheinMain News
 
-Starting from March 2021 we'll publish the "Frontend RheinMain News" consisting of, for example:
+Since March 2021 we publish the "Frontend RheinMain News" consisting of, for example:
 
 - Coverage of past events
 - Announcements of new events
 - Link tipps and reading recommendations
-- Job offers
+- Job offers (to be planned)
 - Exclusive goodies for subscribers
 - ...
 
-Subscribe now and do not miss the first issue!
+Subscribe now and do not miss updates on our activities!
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
