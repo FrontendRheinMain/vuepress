@@ -48,11 +48,6 @@ Subscribe now and do not miss updates on our activities!
 
 ## Archive
 
-<style type="text/css">
+### Issue 1
 
-.display_archive {font-family: arial,verdana; font-size: 12px;}
-.campaign {line-height: 125%; margin: 5px;}
-
-</style>
-<script language="javascript" src="//frontend-rheinmain.us4.list-manage.com/generate-js/?u=c72f80c57c77d0a76a3ce1d6d&fid=28137&show=10" type="text/javascript"></script>
-
+[🔥 Icon hell, Pizza, Tailwind ](https://mailchi.mp/2cb667338b4b/frontendrm-news-1)
