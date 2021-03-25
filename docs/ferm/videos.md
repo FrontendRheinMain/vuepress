@@ -56,4 +56,4 @@ You can find all these videos on our [Youtube-Channel](https://www.youtube.com/c
 
 ## 09/2016: Progressive Web und das Problem von Javascript (Chris Heilmann)
 
-<iframe width="740" height="414" src="https://www.youtube.com/embed/du6ktviKKtg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Video not available anymore.
