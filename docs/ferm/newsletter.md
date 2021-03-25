@@ -48,6 +48,6 @@ Subscribe now and do not miss updates on our activities!
 
 # Archive
 
-## Issue 1
+## Issue 1 (03/2021)
 
 [🔥 Icon hell, Pizza, Tailwind ](https://mailchi.mp/2cb667338b4b/frontendrm-news-1)
