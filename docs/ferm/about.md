@@ -4,7 +4,7 @@ title: About
 
 # Our mission: Pushing knowledge transfer and connecting webworkers in RheinMain
 
-Frontend RheinMain is a community-hub for frontend devs and friends in the RheinMain area, supporting local tech meetups and organizers. 
+Frontend RheinMain is a community-hub for frontend devs and friends in RheinMain. Started in 2014, our misson is to push knowledge transfer and connect webworkers by running meetups and livestreams and supporting related initiatives. We enable developers connect with other webworkers, to learn new stuff and get inspired by latest developments in the frontend field.
 
 # What we do
 
@@ -19,6 +19,8 @@ Frontend RheinMain is a community-hub for frontend devs and friends in the Rhein
 - recording your talks on [video](https://www.youtube.com/channel/UCYFNj1jr1ZufRZLlPDVGYIw)
 - occasionally hand-out benefits for your participants like cheap or free conference tickets, coupon codes, books etc.
 
+In current Corona times we cannot operate 'normally' but we try our best to support your meetup!
+
 ::: tip 
 [Contact us](/ferm/contact) - we're happy to fuel your community-engagement!
 :::
@@ -27,8 +29,10 @@ Frontend RheinMain is a community-hub for frontend devs and friends in the Rhein
 
 Few times a year we also organize free frontend meetups by ourselves in Frankfurt, Wiesbaden, Mainz and Darmstadt - sponsored by helpful companies supplying room, wifi, beamer, drinks and food. This engages a cozy atmosphere to connect with other webworkers, to learn new stuff and get inspired by latest developments in our frontend field.
 
+Since 2021 we do regular livestream events on [Youtube](https://www.youtube.com/channel/UCYFNj1jr1ZufRZLlPDVGYIw), check it out!
+
 ::: tip 
-See our [archive since 2014](/ferm/archive)
+See also our [archive since 2014](/ferm/archive)
 :::
 
 ## Give stage to speakers 
@@ -38,6 +42,8 @@ See our [archive since 2014](/ferm/archive)
 - Present yourself as an expert in your area
 - Connect with like-minded people
 - Get your talk on video to spread your visibility and support your positioning
+
+This all also works pretty well online, too - we're happy to support showing your cool topic to our community.
 
 ::: tip 
 [Contact us](ferm/contact) - our community is excited what you have to say!
@@ -63,18 +69,3 @@ You are a publisher and/or conference organizer? Either if you want to expand yo
 ::: tip 
 [Contact us](/ferm/contact) to talk about how to support us with nice benefits  
 :::
-
-# Who is doing this?
-
-<img src='/img/jan.jpg' alt='Jan Deppisch' class='img-left'>
-
-Hi, I'm Jan. I've founded Frontend RheinMain in 2014 because I wanted to connect frontend developers like me and related web workers regularly in cozy evening-events to exchange new insights about frontend technologies, patterns and ideas and to connect with like-minded people.
-
-Since then many other meetups evolved in our region and instead of moderating my own events, me and my team now support these initiatives in a behind-the-scenes way: We record meetup sessions and put them on Youtube, we do social media marketing, we organize locations, we use our network to engage speakers and we offer benefits to all members.
-
-And we have many plans for the future.
-
-- Want to participate in our orga-team? [Great!](/ferm/contact)
-- Want to sponsor us? [Great!](/ferm/sponsoring)
-- Want to connect personally to me? [Great!](https://www.linkedin.com/in/netzartist/)
-
