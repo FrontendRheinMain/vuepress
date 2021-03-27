@@ -13,9 +13,9 @@ title: Imprint & Privacy
 
 <p>
 Frontend RheinMain<br />
-c/o Jan Deppisch<br />
-Eleonorenstr. 6<br />
-65185 Wiesbaden<br /> 
+c/o Katarzyna Depa<br />
+August-Wolff-Str. 6<br />
+65203 Wiesbaden<br /> 
 E-Mail: info@frontend-rheinmain.de
 </p>
 
