@@ -5,6 +5,7 @@ title: Archive
 # Archive
 
 ## 2021
+* [A hell of an icon / SVG, icon fonts, typography ...](https://youtu.be/YJHd3IzTVyI) (Hendrik Degener)
 * [Pros and Cons of Utility First CSS / TailwindCSS](https://www.youtube.com/watch?v=Aclppt98q3s) (Juan Herrera)
 
 ## 2020
