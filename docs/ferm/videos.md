@@ -6,6 +6,10 @@ title: Videos
 
 You can find all these videos on our [Youtube-Channel](https://www.youtube.com/channel/UCYFNj1jr1ZufRZLlPDVGYIw). Please subscribe there :-)
 
+## 03 / 2021 A hell of an icon / SVG, icon fonts, typography ... (Hendrik Degener)
+
+<iframe width="740" height="414" src="https://www.youtube.com/embed/YJHd3IzTVyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 02 / 2021 Pros and Cons of Utility First CSS / TailwindCSS (Juan Herrera)
 
 <iframe width="740" height="414" src="https://www.youtube.com/embed/Aclppt98q3s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
