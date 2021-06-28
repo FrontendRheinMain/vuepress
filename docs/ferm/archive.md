@@ -5,6 +5,8 @@ title: Archive
 # Archive
 
 ## 2021
+* [Coming soon to CSS - Container queries, masonry layout...](https://youtu.be/ebYYqqGeKkU) (Rachel Andrew)
+* [Automating a Service Worker with Workbox](https://youtu.be/ebYYqqGeKkU) (Maxim Salnikov)
 * [Bringing Pattern Matching to TypeScript / ts-pattern lib](https://www.youtube.com/watch?v=1OiTi1AVvv0) (Gabriel Vergnaud)
 * [A hell of an icon / SVG, icon fonts, typography ...](https://youtu.be/YJHd3IzTVyI) (Hendrik Degener)
 * [Pros and Cons of Utility First CSS / TailwindCSS](https://www.youtube.com/watch?v=Aclppt98q3s) (Juan Herrera)
