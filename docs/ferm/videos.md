@@ -6,6 +6,14 @@ title: Videos
 
 You can find all these videos on our [Youtube-Channel](https://www.youtube.com/channel/UCYFNj1jr1ZufRZLlPDVGYIw). Please subscribe there :-)
 
+## 06 / 2021 Coming soon to CSS - Container queries, masonry layout... (Rachel Andrew)
+
+<iframe width="740" height="414" src="https://www.youtube.com/embed/1YJnHf5svb8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## 05 / 2021 Automating a Service Worker with Workbox (Maxim Salnikov)
+
+<iframe width="740" height="414" src="https://www.youtube.com/embed/ebYYqqGeKkU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 04 / 2021 Bringing Pattern Matching to TypeScript / ts-pattern lib (Gabriel Vergnaud)
 
 <iframe width="740" height="414" src="https://www.youtube.com/embed/1OiTi1AVvv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
