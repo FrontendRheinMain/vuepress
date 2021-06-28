@@ -55,3 +55,7 @@ Subscribe now and do not miss updates on our activities!
 ## Issue 2 (04/2021)
 
 [SVG, Typescript, Workbox](https://mailchi.mp/7696fd74650e/frontendrm-news-2)
+
+## Issue 3 (06/2021)
+
+[CSS Container queries, masonry layout and more](http://mailchi.mp/7b6a9423420c/frontendrm-news-3)
